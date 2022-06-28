@@ -1,0 +1,9 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Luis', 'Garcia', 'baconwp@hotmail.com', '1986-08-21');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Cristian', 'Garcia', 'chicha_elpajaroloco@hotmail.com', '1988-02-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Jesus', 'Garcia', 'jesusito_bonito@hotmail.com', '2019-12-07');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Yajaira', 'Gonzales', 'brit_yaja@hotmail.com', '1988-08-04');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Marco', 'augusto', 'cus_pendeje@hotmail.com', '1988-01-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Laura', 'Joya', 'cus_pendeje@hotmail.com', '1992-02-05');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Samtnha', 'Lopez', 'sam_rodlop@hotmail.com', '1990-04-13');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Karen', 'Ortiz', 'karen_pelirroja@hotmail.com', '1993-12-25');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Karen', 'Sainz', 'karen_sainz_guerita@hotmail.com', '1998-10-10');
